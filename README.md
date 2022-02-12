@@ -1,4 +1,7 @@
-### Hi there 👋
+#Manoel Rios
+
+### Olá pessoal 👋
+Sou apaixonado por tecnologia, desenvolvimento web, automação e pela gratificação de ajudar as pessoas! :computer:
 
 <!--
 **ManoelRIos/manoelrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
