@@ -18,6 +18,5 @@ Sou apaixonado por tecnologia, desenvolvimento web, automação e pela gratifica
 
 ![Like](https://img.shields.io/github/followers/manoelrios?style=social)
  |
-<a hrf="https://www.linkedin.com/in/manoel-rios-20a4b01a2/">
-![Linkedin Badge](https://img.shields.io/badge/-ManoelRios-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
+![Linkedin Badge](https://www.linkedin.com/in/manoel-rios-20a4b01a2/style=flat-square&logo=Linkedin&logoColor=white)
+
