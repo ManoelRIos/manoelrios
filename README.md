@@ -1,7 +1,7 @@
 # Manoel Rios
 
 ### Olá pessoal 👋
-Sou apaixonado por tecnologia, desenvolvimento web, automação e pela gratificação de ajudar as pessoas! :computer:
+Sou apaixonado por tecnologia, desenvolvimento web, automação! :computer:
 
 ## 🚀💻 Technologies & Tools
 
