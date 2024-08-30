@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, desenvolvimento web, automação! :computer:
 ## 🚀💻 Technologies & Tools
 
 <div>
-![My Skills](https://skillicons.dev/icons?i=js,angular,tailwindcss,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,angular,tailwindcss)](https://skillicons.dev)
 </div>
 
 <br/><br/> :email: &nbsp; Me siga e entre em contato:
